@@ -1,0 +1,1 @@
+getting the  answer to running uname command.
